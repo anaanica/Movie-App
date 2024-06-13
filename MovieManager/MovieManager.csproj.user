@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EditActorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditDirectorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditMoviePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListActorsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListDirectorsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListMoviesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EditActorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditDirectorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditMoviePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListActorsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListDirectorsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListMoviesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
