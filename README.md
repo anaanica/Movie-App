@@ -15,4 +15,3 @@ WPF (.NET Core) application that enables CRUD operations on connected entities s
 ![Imgur](https://i.imgur.com/AHY3Hfq.png)
 ![Imgur](https://i.imgur.com/IotMrGj.png)
 ![Imgur](https://i.imgur.com/KNECYNJ.png)
-![Imgur](https://i.imgur.com/1c5Wk9R.png)
